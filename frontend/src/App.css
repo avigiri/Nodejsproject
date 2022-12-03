@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.nav-ul{
+background-color: black;
+padding-top: 50px;
+}
+ 
+.nav-ul li {
+display: inline;
+padding: 10px;
+color: white;
+max-width: 100px;
+}
+.footer {
+  position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color:  #e1a32f;;
+    color: white;
+}
+.header-top{
+  background-color: #e1a32f;
+}
+.buttoncolor{
+  color: rgb(231, 5, 5);
+}
+.signup{
+  padding-top: 10px;
+}
